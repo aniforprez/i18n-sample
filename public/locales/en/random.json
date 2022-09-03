@@ -1,0 +1,6 @@
+{
+  "random-text": "Random text",
+  "nested": {
+    "more-random-text": "More nested random text"
+  }
+}

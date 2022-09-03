@@ -1,0 +1,8 @@
+{
+  "learn-react": "Learn React",
+  "edit-save": "Edit {{code_path}} and save to reload.",
+  "lang-en": "English",
+  "lang-es": "Spanish",
+  "select-language": "Select Language",
+  "interpolate-value": "Extrapolate {{ thingy }} value"
+}
