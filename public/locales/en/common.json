@@ -1,8 +1,7 @@
 {
-  "learn-react": "Learn React",
-  "edit-save": "Edit {{code_path}} and save to reload.",
+  "select-language": "Select Language",
   "lang-en": "English",
   "lang-es": "Spanish",
-  "select-language": "Select Language",
+  "learn-react": "Learn React",
   "interpolate-value": "Extrapolate {{ thingy }} value"
 }
