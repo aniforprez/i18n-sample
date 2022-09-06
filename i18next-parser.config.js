@@ -1,4 +1,4 @@
-const config = {
+module.exports = {
   defaultNamespace: "common",
   defaultValue: "",
   namespaceSeparator: ".",
@@ -6,5 +6,3 @@ const config = {
   locales: ["en", "es", "fr"],
   input: ["src/**/*.{js,jsx,ts,tsx}"],
 };
-
-export default config;

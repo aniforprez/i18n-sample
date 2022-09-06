@@ -11,7 +11,7 @@ i18n
   .init({
     lng: "en",
     fallbackLng: "en",
-    supportedLngs: ["en", "es"],
+    supportedLngs: ["en", "es", "fr"],
     ns: ["common", "random"],
     interpolation: {
       escapeValue: false,
@@ -39,6 +39,7 @@ function App() {
           <select value={lang} onChange={changeLang}>
             <option value="en">{t('common.lang-en')}</option>
             <option value="es">{t('common.lang-es')}</option>
+            <option value="fr">{t('common.lang-fr', "French")}</option>
           </select>
         </p>
         <p>

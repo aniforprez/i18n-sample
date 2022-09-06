@@ -2,6 +2,7 @@
   "select-language": "Select Language",
   "lang-en": "English",
   "lang-es": "Spanish",
+  "lang-fr": "French",
   "learn-react": "Learn React",
   "interpolate-value": "Extrapolate {{ thingy }} value"
 }
